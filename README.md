@@ -10,9 +10,9 @@ To install VMware, set up Kali Linux as a virtual machine, and install Sleuth Ki
 ### **Step 1: Install  VM ware Worskstation**
 
 ### **Installation Steps:**
-1. Download the **Windows hosts** `.exe` file from the official VirtualBox website.  
+1. Download the **Windows hosts** `.exe` file from the official VirtualMAchine Ware Workstation website.  
 2. Run the installer and follow the on-screen instructions.  
-3. Once installed, launch VirtualBox to verify the installation.
+3. Once installed, launch VMware to verify the installation.
 
 
 ### **Step 2: Install Kali Linux on VirtualBox**

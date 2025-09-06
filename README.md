@@ -42,20 +42,11 @@ To install VMware, set up Kali Linux as a virtual machine, and install Sleuth Ki
 
 
 ## OUTPUT:
-### VIRTUAL MACHINE :
 
-<img width="1919" height="994" alt="image" src="https://github.com/user-attachments/assets/1ca68175-9aa3-4f67-889a-08e78c17d97c" />
-
-
-### KALI LINUX:
-<img width="1296" height="607" alt="image" src="https://github.com/user-attachments/assets/84c9f9cf-e7d7-4f83-910e-c1872097349d" />
-
-### SLEUTH KIT:
-
-<img width="1422" height="112" alt="image" src="https://github.com/user-attachments/assets/804b5f46-6f90-46e0-8fc9-3c52f14ede21" />
-# SLEUTH KIT ON KALI 
-
-<img width="624" height="513" alt="image" src="https://github.com/user-attachments/assets/c32f7df6-1643-4ed4-9bbd-039e54006463" />
+<img width="1918" height="1076" alt="Screenshot 2025-09-06 140115" src="https://github.com/user-attachments/assets/c79e73e8-a840-467b-86da-469c78827918" />
+<img width="950" height="1071" alt="Screenshot 2025-09-06 142012" src="https://github.com/user-attachments/assets/9c6341b0-6f6a-4cc7-84c0-bdd09a03814e" />
+<img width="952" height="1077" alt="Screenshot 2025-09-06 142251" src="https://github.com/user-attachments/assets/65b2bff6-9a8f-4a49-a8d3-516af9a16527" />
+<img width="1474" height="678" alt="Screenshot 2025-09-06 143345" src="https://github.com/user-attachments/assets/982cd0e5-28d8-4191-b361-34bc65a83a44" />
 
 
 ## RESULT:
